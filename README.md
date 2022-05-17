@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **shimantoislam066@gmail.com**
 
-- ⚡ Fun fact **
-I am always ready to fuck any girl😄**
+- ⚡ Fun fact **I am always ready to fuck any girl😇🤤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
