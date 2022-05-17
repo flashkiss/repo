@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-r14a&label=Profile%20views&color=0e75b6&style=flat" alt="its-r14a" /> </p>
 
-- 🌱 I’m currently learning **Python, Javascript**
+- 🌱 I’m currently learning **Python, Shell**
 
 - 📝 I regularly write articles on [Shimantoislam.blogapot.com](Shimantoislam.blogapot.com)
 
 - 📫 How to reach me **shimantoislam066@gmail.com**
 
-- ⚡ Fun fact **I Think I Am also Mood To Fuck**
+- ⚡ Fun fact **
+I am always ready to fuck any girl😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
