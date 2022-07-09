@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shimanto Islam</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71313&vCenter=true&multiline=true&lines=It's+Your+Shimanto;Code+Name+R14A)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer from Bangladesh🖤🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-r14a&label=Profile%20views&color=0e75b6&style=flat" alt="its-r14a" /> </p>
