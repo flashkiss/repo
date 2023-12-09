@@ -1,13 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&background=FF111100&width=435&lines=Hey+I+Am+FlashKiss)](https://git.io/typing-svg)
-<h3 align="center">A Simple Noob Bug Hunter</h3>
+<h3 align="center">A Noob </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashkiss&label=Profile%20views&color=0e75b6&style=flat" alt="flashkiss" /> </p>
 
 - 🌱 I’m currently learning **Python, Javascript**
 
 - 👨‍💻 All of my projects are available at [flashkiss.github.io](flashkiss.github.io)
-
-- 📝 I regularly write articles on [Shimantoislam.blogapot.com](Shimantoislam.blogapot.com)
 
 - 📫 How to reach me **shimantoislam2021@gmail.com**
 
