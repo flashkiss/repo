@@ -7,9 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [flashkiss.github.io](flashkiss.github.io)
 
-- 📫 How to reach me **shimantoislam2021@gmail.com**
-
-- ⚡ Fun fact **I Think I Am also Mood To Fuck**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
